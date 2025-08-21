@@ -140,3 +140,6 @@ slurm/
 trials/
 test.py
 .vscode/
+
+.DS_Store
+.idea/
